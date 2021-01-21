@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![takahashi](https://media.giphy.com/media/UkDySmHr6MNsQ/giphy.gif)
+![takahashi](https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif)
 
 Here are some ideas to get you started:
 
