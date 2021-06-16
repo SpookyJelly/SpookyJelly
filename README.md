@@ -4,3 +4,5 @@
 
 ## ["Yes"](https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4))
 ## ["Tell me a joke"](https://github.com/SpookyJelly/SpookyJelly)
+
+##["My blog"]("https://spookyjelly.tistory.com/")
