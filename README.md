@@ -8,7 +8,7 @@
 
 <h3 align="center">🦄 My Github stats 🦄</h3>
 <div align="center">
-[![SpookyJelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyJelly)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyJelly)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">⚙ Algorithm Problem Solving ⚙</h3>
@@ -23,7 +23,7 @@
 </div><br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<div align="center">
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typeScript&logoColor=white"/></a>
@@ -38,7 +38,7 @@
   <br>
   
 
-</p>
+</div>
 
 <div align="center">
   <h3 align="center">📊 I used .. 📊</h3>
