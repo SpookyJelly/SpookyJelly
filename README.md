@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>
-         <a href="https://solved.ac/metis041"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngur10" /></a>
+         <a href="https://solved.ac/metis041"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=metis041" /></a>
       </td>
    </tr>
   </table>
