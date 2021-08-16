@@ -9,6 +9,7 @@
 <h3 align="center">🦄 My Github stats 🦄</h3>
 <div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyJelly)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h3 align="center">⚙ Algorithm Problem Solving ⚙</h3>
