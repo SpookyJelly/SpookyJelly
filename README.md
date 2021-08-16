@@ -7,9 +7,9 @@
 ## ["My blog"](https://spookyjelly.tistory.com/)
 
 <h3 align="center">🦄 My Github stats 🦄</h3>
-
+<div align="center">
 ![lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=spookyJelly)
-
+</div>
 
 <h3 align="center">⚙ Algorithm Problem Solving ⚙</h3>
 <div align="center">
