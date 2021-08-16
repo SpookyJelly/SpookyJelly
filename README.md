@@ -6,9 +6,9 @@
 ## ["Tell me a joke"](https://github.com/SpookyJelly/SpookyJelly)
 ## ["My blog"](https://spookyjelly.tistory.com/)
 
+<h3 align="center">🦄 My Github stats 🦄</h3>
 <div align="center">
-  <h3 align="center">🦄 My Github stats 🦄</h3>
-[![SpookyJelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyJelly&hide=contribs,prs)]
+[![SpookyJelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpookyJelly&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 align="center">⚙ Algorithm Problem Solving ⚙</h3>
