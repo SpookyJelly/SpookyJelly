@@ -1,10 +1,27 @@
 # 何しましょうか？
 
-![takahashi](https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif)
+<div style="display:flex; align-items:center">
+  <div style="display:inline-block; margin-right:7%">
+    <img src='https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif'/>
+  </div>
 
-## ["Yes"](https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4))
-## ["Tell me a joke"](https://github.com/SpookyJelly)
-## ["My blog"](https://spookyjelly.tistory.com/)
+  <div style="display:inline-block">
+    <div style="display:flex; flex-direction:column; text-align:center">
+    <div style="border: 2mm ridge #325886;border-radius:20px; margin-bottom:15px; font-size:1.5rem">
+      <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)">"Yes"</a>
+    </div>
+    <div style="border: 2mm ridge #447AB9;border-radius:20px; margin-bottom:15px; font-size:1.5rem">
+      <a href="https://github.com/SpookyJelly">"Tell me a joke"</a>
+    </div>
+    <div style="border:  2mm ridge #82A7D6;border-radius:20px;margin-bottom:15px; font-size:1.5rem">
+      <a href="https://spookyjelly.tistory.com/">"My blog"</a>
+    </div>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
 
 <h3 align="center">🦄 My Github Stats 🦄</h3>
 <div align="center">
