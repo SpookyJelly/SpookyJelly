@@ -1,11 +1,26 @@
 # 何しましょうか？
 
-![takahashi](https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif)
 
-## ["Yes"](https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4))
-## ["Tell me a joke"](https://github.com/SpookyJelly)
-## ["My blog"](https://spookyjelly.tistory.com/)
-
+<table align='center'>
+  <tr>
+  <td rowspan='3'>
+  <img src="https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif" alt=''/>
+  </td>
+  <td>
+    <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">⬆ Yes</a>
+  </td>
+  </tr>
+  <tr>
+  <td>
+     <a href="https://github.com/SpookyJelly" rel="noreferrer">⬅ Tell me a Joke</a>
+  </td>
+  </tr>
+  <tr>
+  <td>
+     <a href="https://spookyjelly.tistory.com/" rel="noreferrer">➡ My blog</a>
+  </td>
+  </tr>
+ </table>
 
 ### 나는 언제나 개발을 즐길 것이다.
 
