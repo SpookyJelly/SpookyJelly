@@ -21,6 +21,9 @@
   </td>
   </tr>
  </table>
+ 
+ <br/>
+  <br/>
 
 ### 나는 언제나 개발을 즐길 것이다.
 
@@ -30,6 +33,8 @@
   <li>EveryTime: 핵심 문제에 집중하기</li>
 </ul>
 
+<br/>
 
+<div align='center'>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSpookyJelly%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
