@@ -3,24 +3,32 @@
 
 <table align='center'>
   <tr>
-  <td rowspan='3'>
+  <td rowspan='4' style='padding: 0 0'>
   <img src="https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif" alt=''/>
   </td>
-  <td>
-    <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">⬆ Yes</a>
-  </td>
   </tr>
   <tr>
-  <td>
-     <a href="https://github.com/SpookyJelly" rel="noreferrer">⬅ Tell me a Joke</a>
+  <td style='width:25%'>
   </td>
+    <td style='width:15%' align='center'>
+     <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">⬆ Yes</a>
+    </td>
+     <td style='width:25%'>
+    </td>
   </tr>
   <tr>
+  <td  style='width:25%'>
+    <a href="https://github.com/SpookyJelly" rel="noreferrer">⬅ Tell me a Joke</a>
+  </td>
   <td>
-     <a href="https://spookyjelly.tistory.com/" rel="noreferrer">➡ My blog</a>
+     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgB-tX43NXwywL2tc40-0O77h5sjMgwrLUP-kDicj69O7S688XaK2uYhBQHoikX46yqB_qfeAbNEJl0p7zsIhxZPMBPz01HrG35VFOsW8b2R6ZYqj9HRuKeQYKFi9wDyeISw9OLGK7Wa_JeugbUeTdNGQch4lErzJ2ba2K-kaQW2IGzlFLgvoDoDfzs=s1600" alt='' style='width:12vw; height:12vh'>
+  </td>
+  <td  style='width:25%'>
+    <a href="https://spookyjelly.tistory.com/" rel="noreferrer">➡ My blog</a>
   </td>
   </tr>
  </table>
+ 
  
  <br/>
   <br/>
