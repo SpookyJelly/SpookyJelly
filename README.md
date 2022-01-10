@@ -21,7 +21,7 @@
     <a href="https://github.com/SpookyJelly" rel="noreferrer">⬅ Tell me a Joke</a>
   </td>
   <td>
-     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgB-tX43NXwywL2tc40-0O77h5sjMgwrLUP-kDicj69O7S688XaK2uYhBQHoikX46yqB_qfeAbNEJl0p7zsIhxZPMBPz01HrG35VFOsW8b2R6ZYqj9HRuKeQYKFi9wDyeISw9OLGK7Wa_JeugbUeTdNGQch4lErzJ2ba2K-kaQW2IGzlFLgvoDoDfzs=s1600" alt='' style='width:12vw; height:12vh'>
+     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgB-tX43NXwywL2tc40-0O77h5sjMgwrLUP-kDicj69O7S688XaK2uYhBQHoikX46yqB_qfeAbNEJl0p7zsIhxZPMBPz01HrG35VFOsW8b2R6ZYqj9HRuKeQYKFi9wDyeISw9OLGK7Wa_JeugbUeTdNGQch4lErzJ2ba2K-kaQW2IGzlFLgvoDoDfzs=s1600" alt='' style='width:125px; height:125px'>
   </td>
   <td  style='width:25%'>
     <a href="https://spookyjelly.tistory.com/" rel="noreferrer">➡ My blog</a>
