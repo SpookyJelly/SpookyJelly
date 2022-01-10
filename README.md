@@ -1,7 +1,7 @@
 # 何しましょうか？
 
 
-<table align='center'>
+<table align='center' style='overflow:initial'>
   <tr>
   <td rowspan='4' style='padding: 0 0'>
   <img src="https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif" alt=''/>
@@ -30,8 +30,8 @@
  </table>
  
  
- <br/>
-  <br/>
+<br/>
+<br/>
 
 ### 나는 언제나 개발을 즐길 것이다.
 
