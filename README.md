@@ -1,6 +1,5 @@
 # 何しましょうか？
 
-
 <table align='center' style='overflow:initial'>
   <tr>
   <td rowspan='4' style='padding: 0 0'>
@@ -33,6 +32,7 @@
 <br/>
 <br/>
 
+<h3>마일스톤</h3>
 <ul>
   <li>Daily: 내 일과에 전혀 영향을 끼치지 않을 정도로 간단한 알고리즘 문제 풀기</li>
   <li>Weekly: 내가 배운 것들을 타인과 공유하기</li>
