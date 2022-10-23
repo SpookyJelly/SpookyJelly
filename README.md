@@ -1,47 +1,53 @@
-# 何しましょうか？
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dela+Gothic+One&duration=3000&pause=2000&color=0FF700&background=000000&center=true&vCenter=true&width=425&height=45&lines=%E4%BD%95%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%EF%BC%9F)](https://git.io/typing-svg)
+
+<div>
+  <img src="./title.gif"/>
+</div>
 
 <table align='center' style='overflow:initial'>
+  <tr> 
+    <h3 >
+      <a herf="https://github.com/SpookyJelly" rel="noreferrer">🤣 Tell me a joke</a>
+    </h3>
   <tr>
-  <td rowspan='4' style='padding: 0 0'>
-  <img src="https://1.bp.blogspot.com/-xaonqRhznpo/YAk7AcyadYI/AAAAAAAAA5M/xSRRPu70b_QGQq_rShHW2SuMhwDuO_cRACLcBGAsYHQ/s0/GIF.gif" alt=''/>
-  </td>
-  </tr>
+  <tr> 
+    <h3>
+      <a herf="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">😊 Yes</a>
+    </h3>
   <tr>
-  <td style='width:25%'>
-  </td>
-    <td style='width:15%' align='center'>
-     <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">⬆ Yes</a>
-    </td>
-     <td style='width:25%'>
-    </td>
+  <tr> 
+    <h3>
+      <a href="https://spookyjelly.tistory.com/" rel="noreferrer">🧐 My blog</a>
+    </h3>
   </tr>
-  <tr>
-  <td  style='width:25%'>
-    <a href="https://github.com/SpookyJelly" rel="noreferrer">⬅ Tell me a Joke</a>
-  </td>
-  <td>
-     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgB-tX43NXwywL2tc40-0O77h5sjMgwrLUP-kDicj69O7S688XaK2uYhBQHoikX46yqB_qfeAbNEJl0p7zsIhxZPMBPz01HrG35VFOsW8b2R6ZYqj9HRuKeQYKFi9wDyeISw9OLGK7Wa_JeugbUeTdNGQch4lErzJ2ba2K-kaQW2IGzlFLgvoDoDfzs=s1600" alt='' style='width:125px; height:125px'>
-  </td>
-  <td  style='width:25%'>
-    <a href="https://spookyjelly.tistory.com/" rel="noreferrer">➡ My blog</a>
-  </td>
-  </tr>
- </table>
- 
- 
-<br/>
-<br/>
+</table>
 
-### ~~마일스톤~~
-  - ~~Daily: 내 일과에 전혀 영향을 끼치지 않을 정도로 간단한 알고리즘 문제 풀기~~
-  - ~~Weekly: 내가 배운 것들을 타인과 공유하기~~
-  - ~~EveryTime: 핵심 문제에 집중하기~~
+<h2>
+  <a href='https://fallout.fandom.com/wiki/Takahashi' rel="noreferrer">Meme Explained</a>
+</h2>
 
-<h1> 나는 사소한 약속 따윈 신경쓰지 않는다!</h1>
 
-<br/>
+
+
+
+## I am currently focus on...
+
+
+* [React-Chicago](https://github.com/SpookyJelly/react-chicago)
+* [Odyssey](https://github.com/SpookyJelly/odyssey)
+
+
+
+## Interested on..
+
+* Vite
+* FP /RP
+* Typescript
+* Next.js
+
+
+
 
 <div align='center'>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSpookyJelly%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-
