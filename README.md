@@ -7,12 +7,12 @@
 <table align='center' style='overflow:initial'>
   <tr> 
     <h3 >
-      <a herf="https://github.com/SpookyJelly" rel="noreferrer">🤣 Tell me a joke</a>
+      <a href="https://github.com/SpookyJelly" rel="noreferrer">🤣 Tell me a joke</a>
     </h3>
   <tr>
   <tr> 
     <h3>
-      <a herf="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">😊 Yes</a>
+      <a href="https://fallout.fandom.com/wiki/Noodle_cup_(Fallout_4)" rel="noreferrer">😊 Yes</a>
     </h3>
   <tr>
   <tr> 
