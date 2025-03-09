@@ -30,14 +30,6 @@
 
 
 
-## I am currently focus on...
-
-
-* [React-Chicago](https://github.com/SpookyJelly/react-chicago)
-* [Odyssey](https://github.com/SpookyJelly/odyssey)
-
-
-
 ## Interested on..
 
 * Vite
